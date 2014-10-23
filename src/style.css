@@ -1,0 +1,39 @@
+.header_top{
+    clear:both;
+    width: 100%;
+}
+body{
+    padding:5px;
+    font-size: 13px;
+    background-color: black;
+    color:white;
+}
+
+body a{
+    color:white;
+    text-decoration: none;
+}
+
+body a:hover{
+    color:greenyellow;
+    text-decoration: none;
+}
+
+.tiles{
+    clear:both;
+    padding:5px;
+}
+
+
+.break_down{
+    clear:both;
+}
+
+.footer{
+    clear:both;
+    padding:5px;
+}
+
+.site_web_title{
+    padding-left:30px;
+}
